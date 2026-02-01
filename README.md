@@ -1,5 +1,7 @@
 # nn-practice-ball-m4l
-Sonification kit for Duophonic Transience research project
+Sonification kit for [Duophonic Transience](modina.eu/projects/duophonic-transience/), a research project as a research fellow at Tallinn University, supported by MODINA. 
+
+![patch-screenshot](https://modina.eu/wp-content/uploads/2023/07/Screenshot.png)
 
 # Requirements
 
